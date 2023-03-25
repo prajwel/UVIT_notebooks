@@ -1,0 +1,9 @@
+name: UVIT_notebooks
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - astropy
+  - canuvit
