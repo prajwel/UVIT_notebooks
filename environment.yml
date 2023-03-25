@@ -6,4 +6,6 @@ dependencies:
   - numpy
   - matplotlib
   - astropy
-  - canuvit
+  - pip
+  - pip:
+    - canuvit
