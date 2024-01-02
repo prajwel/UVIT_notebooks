@@ -1,0 +1,12 @@
+abstract: Jupyter notebooks related to UVIT analysis
+authors:
+- family-names: Prajwel Joseph
+cff-version: 1.2.0
+date-released: '2024-01-02'
+doi: 10.5281/zenodo.10450285
+license:
+- cc-by-4.0
+repository-code: https://github.com/prajwel/UVIT_notebooks/tree/v1.0.0
+title: 'prajwel/UVIT_notebooks: v1.0.0'
+type: software
+version: v1.0.0
